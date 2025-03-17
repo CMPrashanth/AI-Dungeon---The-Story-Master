@@ -83,12 +83,7 @@ python main.py
 - **API Key Issues:**  
   Ensure that the `GEMINI_API_KEY` is correctly set in the `.env` file as required by the project structure.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [pyttsx3](https://github.com/nateshmbhat/pyttsx3) for providing text-to-speech functionality.
 - [Google Generative AI](https://cloud.google.com/generative-ai) for the story generation API.
-- Thanks to all contributors for making this immersive storytelling experience possible.
